@@ -1,0 +1,12 @@
+# Python
+https://blog.python.org/feeds/posts/default
+https://blog.pypi.org/feed.xml
+
+# AI
+https://openai.com/news/rss.xml
+
+# Security
+https://www.jpcert.or.jp/rss/jpcert.rdf
+
+# Japanese
+https://www.publickey1.jp/atom.xml

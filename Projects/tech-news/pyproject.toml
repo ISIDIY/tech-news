@@ -1,0 +1,19 @@
+[project]
+name = "tech-news"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "石井大也", email = "221daiya@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.14",
+]
+
+[project.scripts]
+tech-news = "tech_news:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"
